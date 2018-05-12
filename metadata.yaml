@@ -1,0 +1,42 @@
+_repo: Twice-Told-Tales_13707
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcsh 'Historical fiction, American'
+- !lcc 'PS'
+tableOfContents: 'The gray champion -- Sunday at home -- The wedding-knell -- The
+  minister''s black veil -- The Maypole of Merry Mount -- The gentle boy -- Mr. Higginbotham''s
+  catastrophe -- Little Annie''s ramble -- Wakefield -- A rill from the town pump
+  -- The Great Carbuncle -- The prophetic pictures -- David Swan -- Sights from a
+  steeple -- The Hollow of the three hills -- The toll-gatherer''s day -- The vision
+  of the fountain -- Fancy''s show-box -- Dr. Heidegger''s experiment -- Legends of
+  the Province House: Howe''s masquerade. Edward Randolph''s portrait. Lady Eleanore''s
+  mantle. Old Esther Dudley -- The haunted mind -- The village uncle -- The ambitious
+  guest -- The sister-years -- The White Old Maid -- Peter Goldthwaite''s treasure
+  -- Chippings with a chisel -- The Shaker bridal -- Night-sketches -- Endicott and
+  the Red Cross -- The Lily''s quest -- Footprints on the seashore -- Edward Fane''s
+  rosebud -- The threefold destiny.'
+title: Twice Told Tales
+url: http://www.gutenberg.org/ebooks/13707
